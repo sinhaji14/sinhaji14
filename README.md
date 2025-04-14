@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Sinha</h1>
-<h3 align="center">AA highly driven and versatile professional from India with a strong foundation in Chemical Engineering and a deep passion for frontend development, artificial intelligence, machine learning, and robotics. Experienced in blending technical expertise with creative problem-solving to deliver innovative solutions in technology and engineering domains.</h3>
+<h3 align="center">A highly driven and versatile professional from India with a strong foundation in Chemical Engineering and a deep passion for  artificial intelligence and robotics. Experienced in blending technical expertise with creative problem-solving to deliver innovative solutions in technology and engineering domains.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinhaji14&label=Profile%20views&color=0e75b6&style=flat" alt="sinhaji14" /> </p>
 
