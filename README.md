@@ -74,9 +74,10 @@ A highly driven ML Engineer with strong foundations in **Machine Learning, Deep 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sinhaji14&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinhaji14&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://streak-stats.demolab.com?user=sinhaji14&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sinhaji14&theme=tokyonight" />
 </p>
 
 ---
